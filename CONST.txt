@@ -1,0 +1,3 @@
+mongodb+srv://M4theus2908:<password>@cluster0.fo0jt.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority
+
+password: KVD75EmirUi2zGqy
