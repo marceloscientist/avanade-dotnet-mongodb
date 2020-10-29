@@ -1,3 +1,4 @@
+using System;
 using Api.Data.Collections;
 using Api.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -35,6 +36,7 @@ namespace Api.Controllers
 
             return Ok(infected);
         }
+
 
     }
 }
